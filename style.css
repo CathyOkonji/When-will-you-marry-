@@ -23,7 +23,6 @@ h1 {
     padding: 10px;
     font-size: 3em;
     margin-top: 2em;
-    background: url(https://images.unsplash.com/photo-1502652023201-a16bde8138d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
 }
 
 input {
@@ -64,4 +63,8 @@ footer{
 .link{
     text-decoration: underline;
     color: black;
+}
+
+.fate2{
+    margin-top: 6em;
 }
